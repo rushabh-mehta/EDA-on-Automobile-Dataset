@@ -7,9 +7,9 @@ Some visualisations and the correspnding insights:
 ![](images/bar.PNG)
 
 Not a lot of people have 4 wheel drive cars
-![](images/pie.PNG)
+![](images/pie.PNG 100x20)
 
-As the weight of the car increases the mileage decrease (negative correlation,colour coded by the manufacturer of the car) 
+As the weight of the car increases the mileage decrease (negative correlation,colour coded by the manufacturer of the car)
 ![](images/scatter.PNG)
 
 Prices of BMW,Mercedes-Benz and Porsche are very high but Porsche offers car models in a lot pf price ranges.From premium pricing to pricing comparable to top models of other car manufacturers while BMW,Mercedes-Benz have only premium segment cars.
