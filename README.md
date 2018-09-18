@@ -1,5 +1,5 @@
 # EDA-on-Automobile-Dataset
-,b>Performed EDA on a Automobile Dataset after used Pandas and Numpy for Data Manipulation followed by Matplotlib and Seaborn for Data Visualisation.</b>
+<b>Performed EDA on a Automobile Dataset after used Pandas and Numpy for Data Manipulation followed by Matplotlib and Seaborn for Data Visualisation.</b>
 
 <b>Some visualisations and the corresponding insights:</b>
 
