@@ -1,7 +1,7 @@
 # EDA-on-Automobile-Dataset
 Performed EDA on a Automobile Dataset after cleaning it using Pandas and Numpy for Data Manipulation followed by Matplotlib and Seaborn for Data Visualisation.
 
-<b>Some visualisations and the correspnding insights:</b>
+<b>Some visualisations and the corresponding insights:</b>
 
 90% of the people use cars that run of gas rather than diesel
 ![](images/bar.PNG)
